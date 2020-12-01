@@ -1,3 +1,3 @@
 # Desafio 01
 
-## Challenge - 01, desafio proposto através do curso da Flutterando.
+## Challenge - 01, desafio realizando através da proposta do curso da Flutterando.
