@@ -11,7 +11,21 @@ class HomePage extends StatelessWidget {
         // Pegar todo tamanho da tela
         height: mediaQuery.height,
         width: mediaQuery.width,
-        color: Colors.red[300],
+        decoration: const BoxDecoration(
+          gradient: LinearGradient(
+            tileMode: TileMode.clamp,
+            colors: <Color>[
+              Colors.red,
+              Colors.redAccent,
+              Colors.pinkAccent,
+
+              // Color(0xFFEF5350),
+              // Color(0xFFE57373),
+              // Color(0xFFEF9A9A),
+            ],
+          ),
+        ),
+        //color: Colors.red[300],
 
         //
         child: Column(
