@@ -18,33 +18,47 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Container(
+              //margin: EdgeInsets.only(top: 10.0, bottom: 20),
+              //color: Colors.green,
+              padding: EdgeInsets.all(10.0),
               child: Image.asset(
                 'assets/images/logo.png',
                 color: Colors.white,
-                scale: 5,
+                scale: 3,
               ),
-              color: Colors.green,
-              //padding: EdgeInsets.all(10.0),
-              margin: EdgeInsets.only(top: 10.0, bottom: 20),
             ),
 
             //
-            //SizedBox(height: 20),
+            SizedBox(height: 40.0),
             Text(
               "Location Changer",
-              style: TextStyle(color: Colors.white, fontSize: 24),
+              style: TextStyle(color: Colors.white, fontSize: 30),
             ),
 
             //
             SizedBox(height: 10),
             Text(
-              "Plugin App for Tinder",
-              style: TextStyle(color: Colors.white, fontSize: 16),
+              "Plugin App for Flirt",
+              style: TextStyle(color: Colors.white, fontSize: 20),
             ),
 
             //
-            SizedBox(height: 50),
-            RaisedButton(onPressed: null),
+            SizedBox(height: 30.0),
+            RaisedButton(
+              child: Text("Login with Facebook"),
+              textColor: Colors.red[400],
+              color: Colors.white,
+              padding: EdgeInsets.only(
+                top: 12.0,
+                right: 40.0,
+                left: 40.0,
+                bottom: 12.0,
+              ),
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(30.0),
+              ),
+              onPressed: () {},
+            ),
           ],
         ),
       ),
