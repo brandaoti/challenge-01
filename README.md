@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"> Desafio realizando através da proposta do curso da Flutterando. <br>
-    O conceito do trabalho, era realizar o desenvolvimento de um layout, com cores, botões.
+    O conceito do trabalho, foi realizar o desenvolvimento de um layout, com cores, botões.
 </p>
 
 
