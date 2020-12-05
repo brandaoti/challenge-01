@@ -1,4 +1,4 @@
-# Desafio 01
+## 
 
 <h1 align="center">
 <br>
@@ -13,8 +13,7 @@
 
 [//]: # (Adicione seus gifs / imagens aqui:)
 <div>
-  <!-- <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425"> -->
+  <img src="./prints/challenge01.png" alt="demo" height="425">
 </div>
 
 <hr />
@@ -26,13 +25,3 @@
 - <code><img height="20" src="https://github.com/brandaoti/organizar-github/blob/main/img/dart.png"></code> **Dart**
 
 <hr />
-
-
-<!-- ## Getting started
-
-Descreva aqui a forma de usar / instalar seu projeto
-
-
-## License
-
-Este projeto está licenciado sob a Licença MIT - consulte a [LICENSE](https://opensource.org/licenses/MIT) página para detalhes. -->
