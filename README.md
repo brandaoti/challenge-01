@@ -1,19 +1,21 @@
-## 
-
 <h1 align="center">
 <br>
-  <img src="img/flutter.png" alt="Flutter" width="120">
+  Challenge - 01
 <br>
 <br>
 
 </h1>
 
-<p align="center">Challenge - 01, desafio realizando através da proposta do curso da Flutterando.</p>
+<p align="center"> Desafio realizando através da proposta do curso da Flutterando. <br>
+    O conceito do trabalho, era realizar o desenvolvimento de um layout, com cores, botões.
+</p>
 
 
 [//]: # (Adicione seus gifs / imagens aqui:)
 <div>
-  <img src="./prints/challenge01.png" alt="demo" height="425">
+  <h1 align="center">
+    <img src="./prints/challenge01.png" alt="demo" height="425">
+  </h1>
 </div>
 
 <hr />
